@@ -1,0 +1,7 @@
+{
+  "name": "Mindful Moments: AI-Powered Mood Tracker",
+  "description": "A secure, privacy-first web application that helps students track their emotional well-being over time using journal entries (text and voice) and AI-based sentiment analysis. The platform proactively detects negative emotional trends and gently guides users toward appropriate wellness resources.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
